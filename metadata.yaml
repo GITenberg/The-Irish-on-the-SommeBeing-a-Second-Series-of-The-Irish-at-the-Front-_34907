@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36269'
     url: http://www.gutenberg.org/2009/agents/36269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34907#The-Irish-on-the-SommeBeing-a-Second-Series-of-The-Irish-at-the-Front-
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-01-10'
 gutenberg_type: Text
